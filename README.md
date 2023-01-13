@@ -19,6 +19,10 @@ Colors are made up of 3 primary colors; red, green, and blue. In computers, we d
 <br>
 <br>
 <br>
+<br>
+<br>
+
+
 
 
 
@@ -29,3 +33,20 @@ When we click the any place in the input image then it will display the color of
 <img align="left" alt="Coding" Width="400" src=".\output.jpg">
 
 <img align="left" alt="Coding" Width="400" src=".\output1.jpg">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#Data set resource: kaggle
+link:https://www.kaggle.com/datasets/adityabhndari/color-detection-data-set?select=colors.csv
