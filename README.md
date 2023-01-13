@@ -5,4 +5,27 @@ Colors are made up of 3 primary colors; red, green, and blue. In computers, we d
 
 **Input image**
 
-<img align="left" alt="Coding" Width="400" src=".\color.jpeg">
+<img align="left" alt="Coding" Width="400" src=".\color.jpeg"> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+**OUTPUT**
+
+When we click the any place in the input image then it will display the color of the place where we clicked by the mouse. The out put is as shown below images.
+
+<img align="left" alt="Coding" Width="400" src=".\output.jpg">
+
+<img align="left" alt="Coding" Width="400" src=".\output1.jpg">
